@@ -1,0 +1,137 @@
+git init
+  233  ls
+  234  git branch
+  235  git --delete develope feature1
+  236  git branch  --delete develope feature1
+  237  git branch --delete develope feature1
+  238  git branch -D feature1
+  239  git branch
+  240  git branch --delete develope
+  241  git branch Develop f1 F2
+  242  git branch
+  243  git branch -M Develop f1 F2
+  244  git branch -M Develop
+  245  git branch -M f1
+  246  git branch -M F2
+  247  git branch
+  248  git branch -m Develop
+  249  git branch
+  250  git branch f1
+  251  git branch
+  252  git branch F2
+  253  git branch -M master
+  254  git branch F2
+  255  git branch
+  256  git branch Develop
+  257  git checkout master
+  258  ls
+  259  gitbranch
+  260  git branch
+  261  touch main.txt
+  262  git add
+  263  git add main.txt 
+  264  git commit main.txt -m "1st commit"
+  265  git checkout Develope
+  266  git checkout Develop
+  267  touch develope.txt
+  268  ls
+  269  git add develope.txt 
+  270  git commit develope.txt -m "second commit"
+  271  git checkout f1
+  272  touch f1.txt
+  273  git add f1.txt 
+  274  git commit f1.txt -m "third commit"
+  275  git checkout F2
+  276  touch f2.txt
+  277  ls
+  278  git add f2.txt 
+  279  ls
+  280  git commit f2.txt 
+  281  git commit f2.txt -m "4th commit"
+  282  git push origin -u kufefeufud
+  283  git branch
+  284  git push origin -u Develope
+  285  git push origin -u Develop
+  286  git push origin -u F2
+  287  git push origin -u f1
+  288  git push origin -u master
+  289  git branch --delete F2
+  290  git checkout master
+  291  git branch --delete F2
+  292  git branch remote --delete F2
+  293  git push origin -d F2
+  294  history
+  295  git branch
+  296  vi Assignment3.txt
+  297  git remote add origin git@github.com:Ashish8336/practice.git
+  298  git remote remove origin
+  299  git remote add origin git@github.com:Ashish8336/practice.git
+  300  ls
+  301  git add Assignment3.txt 
+  302  git commit Assignment3.txt -m "third assignmrnt"
+  303  git push origin main
+  304  git push origin Assignment3.txt 
+  305  git push origin Assignment3.txt main
+  306  git push origin
+  307  git push -u origin
+  308  git push -u origin main
+  309  git branch
+  310  git push -u origin master
+  311  git pull
+  312  git push -u origin mastergit branch
+  313  git branch
+  314  git branch ass3
+  315  git checkout master Assignment3.txt 
+  316  git checkout ass3
+  317  git checkout master Assignment3.txt 
+  318  ls
+  319  git push -u ass3
+  320  git branch
+  321  git branch ass3
+  322  git push -u origin ass3
+  323  git pull
+  324  rm rf .git
+  325  rm -rf .git
+  326  git branch
+  327  git init
+  328  git branch
+  329  git branch -m master
+  330  touch master.txt
+  331  git add master.txt 
+  332  git commit master.txt -m "1st"
+  333  git branch public1
+  334  git branch
+  335  git branch public2
+  336  git branch private
+  337  git checkout public1
+  338  touch public1.txt
+  339  git add public1.txt 
+  340  git commit public1.txt -m "2nd"
+  341  git checkout master
+  342  git merge public1
+  343  ls
+  344  git branch
+  345  merge public2
+  346  git merge public2
+  347  git checkout private
+  348  ls
+  349  vi master.txt 
+  350  git add master.txt 
+  351  git commit -m "3rd"
+  352  ls
+  353  cat master.txt 
+  354  git checkout public1
+  355  ls
+  356  cat master.txt 
+  357  vi master.txt 
+  358  git checkout public2
+  359  vi master.txt 
+  360  cat master.txt 
+  361  git checkout master
+  362  cat master.txt 
+  363  git checkout private
+  364  git branch
+  365  ls
+  366  vi master.txt 
+  367  git checkout public2
+  368  git merge master
