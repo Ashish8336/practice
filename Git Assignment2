@@ -1,0 +1,37 @@
+git checkout master
+git branches
+git --help
+git branch
+git branch master
+git branch
+git checkout master
+mkdir working
+ls
+cd working
+touch feature1.txt feature2.txt
+cd ..
+git branch develope feature1 feature2
+git branch develope
+git branch feature1
+git branch feature2
+git branch
+git branch -M master
+git branch
+git checkout develope
+touch develope.txt
+git stash -u
+ls
+git branch
+git checkout feature1
+ls
+touch new.txt
+git add touch.txt
+ls
+git add new.txt
+git commit new.txt 
+git checkout develope
+ls
+git stash pop
+ls
+git add working/
+git commit working/ -m "second commit"
