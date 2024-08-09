@@ -1,0 +1,46 @@
+[200~git branch
+git branch -m Develop
+git branch
+git branch f1
+git branch
+git branch F2
+git branch -M master
+git branch F2
+git branch
+git branch Develop
+git checkout master
+ls
+gitbranch
+git branch
+touch main.txt
+git add
+git add main.txt 
+git commit main.txt -m "1st commit"
+git checkout Develope
+git checkout Develop
+touch develope.txt
+ls
+git add develope.txt 
+git commit develope.txt -m "second commit"
+git checkout f1
+touch f1.txt
+git add f1.txt 
+git commit f1.txt -m "third commit"
+git checkout F2
+touch f2.txt
+ls
+git add f2.txt 
+ls
+git commit f2.txt 
+git commit f2.txt -m "4th commit"
+git branch
+git push origin -u Develop
+git push origin -u F2
+git push origin -u f1
+git push origin -u master
+git branch --delete F2
+git checkout master
+git branch --delete F2
+git branch remote --delete F2
+git push origin -d F2
+history
